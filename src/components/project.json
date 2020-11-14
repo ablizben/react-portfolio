@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Scheduler",
+        "code": "HTML • CSS • jQuery",
+        "image": "./pages/images/scheduler.png",
+        "deployedApp": "https://ablizben.github.io/scheduler/",
+        "deployedCode": "https://github.com/ablizben/scheduler"
+    },
+    {
+        "id": 2,
+        "name": "What's On The Menu",
+        "code": "HTML • CSS • jQuery",
+        "image": "../components/pages/images/whatsonthemenu.png",
+        "deployedApp": "https://siminski.co/diet-search",
+        "deployedCode": "https://github.com/siminski/diet-search"
+    },
+    {
+        "id": 3,
+        "name": "The Habit Tracker",
+        "code": "Node • MySQL • jQuery",
+        "image": "../components/pages/images/habittracker.png",
+        "deployedApp": "https://thomas-abby-dada-jessica.herokuapp.com/",
+        "deployedCode": "https://github.com/tmylesc/Habit-Tracker"
+    },
+    {
+        "id": 4,
+        "name": "Employee Directory",
+        "code": "HTML • CSS • React",
+        "image": "./components/pages/images/employeedirectory.png",
+        "deployedApp": "https://thomas-abby-dada-jessica.herokuapp.com/",
+        "deployedCode": "https://ablizben.github.io/employee-directory/"
+    },
+    {
+        "id": 5,
+        "name": "Fitness Tracker",
+        "code": "JavaScript • Node.js • MongoDB",
+        "image": "./components/pages/images/fitness-tracker.png",
+        "deployedApp": "https://fitnesstracker-01.herokuapp.com/?id=5f6aac1b190686001748a626",
+        "deployedCode": "https://github.com/ablizben/fitness-tracker"
+    },
+    {
+        "id": 6,
+        "name": "Google Books Search",
+        "code": "MERN Stack",
+        "image": "./components/pages/images/fitness-tracker.png",
+        "deployedApp": "https://fitnesstracker-01.herokuapp.com/?id=5f6aac1b190686001748a626",
+        "deployedCode": "https://github.com/ablizben/google-books-search"
+    }
+
+]
