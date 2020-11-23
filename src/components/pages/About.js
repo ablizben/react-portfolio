@@ -15,7 +15,7 @@ const About = () => (
     <hr />
       <div className="row">
         <div className="col-md-6 aboutSections">
-          <img class="profilePic profilePic1" src={ProfilePic} alt= "profile picture" />
+          <img class="profilePic profilePic1" src={ProfilePic} alt= "Profile picture of Abby" />
         </div>
           <div className="col-md-6 aboutSections">
             <h4 className="bio bio1">
